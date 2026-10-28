@@ -165,5 +165,4 @@ streamlit run app.py
 **Project:** Rice Leaf Disease & Crop Advisory System  
 **Type:** Machine Learning Mini-Project
 
-Add your name, college, department, and academic year here before submission.
 
