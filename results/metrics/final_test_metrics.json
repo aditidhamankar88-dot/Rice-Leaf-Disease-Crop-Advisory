@@ -1,0 +1,17 @@
+{
+    "selected_model": "Decision Tree",
+    "selection_metric": "validation_weighted_f1_score",
+    "test_metrics": {
+        "accuracy": 0.9777777777777777,
+        "precision": 0.9781389499630423,
+        "recall": 0.9777777777777777,
+        "f1_score": 0.9778320640485589
+    },
+    "test_samples": 720,
+    "class_labels": [
+        "Bacterialblight",
+        "Blast",
+        "Brownspot",
+        "Tungro"
+    ]
+}

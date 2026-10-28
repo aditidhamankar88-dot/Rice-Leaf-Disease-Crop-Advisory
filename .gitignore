@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Dataset images
+dataset/
+
+# Generated feature caches
+models/X_train_features.joblib
+models/X_validation_features.joblib
+models/X_test_features.joblib
+
+# Temporary files
+.ipynb_checkpoints/
+.vscode/
+
+# Environment secrets
+.env
+
